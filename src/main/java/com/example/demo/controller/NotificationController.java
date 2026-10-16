@@ -11,6 +11,6 @@ public class NotificationController {
 
     @GetMapping("/test")
     public String test() {
-        return "Notification added successfully!";
+        return "Notification added successf!";
     }
 }
