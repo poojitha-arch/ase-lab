@@ -11,6 +11,6 @@ public class NotificationController {
 
     @GetMapping("/test")
     public String test() {
-        return "Notification Service is working!";
+        return "Notification Service is okey!";
     }
 }
